@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ManashAnand
-- 👀 I’m interested in Web-Development,App-Development,BlockChain and many more... 
-- 🌱 I’m currently learning Development 
+- 👀 I’m interested in Web-Development,App-Development,BlockChain,cp and many more... 
+- 🌱 I’m currently learning Development and competitive programming
 - 📫 How to reach me 
           mail -> anandmanash321@gmail.com
+          number -> 7067690247
           
 
 <!---
